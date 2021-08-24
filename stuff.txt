@@ -1,0 +1,3 @@
+--add-data "exhead.png;." --add-data "exleftarm.png;." --add-data "exleftleg.png;." --add-data "exodia-obliterate.mp3;." --add-data "exrightarm.png;." --add-data "exrightleg.png;." --add-data "nopatheticcards.mp3;." --add-data "obliterate.gif;." --add-data "spawn.mp3;." --add-data "unstopable.mp3;." --add-data "unstopable.png;." 
+
+--add-data "exhead.png;." --add-data "exleftarm.png;." --add-data "exleftleg.png;." --add-data "exodia-obliterate.mp3;." --add-data "exrightarm.png;." --add-data "exrightleg.png;." --add-data "nopatheticcards.mp3;." --add-data "obliterate.gif;." --add-data "spawn.mp3;." --add-data "unstopable.mp3;." --add-data "unstopable.png;." 
